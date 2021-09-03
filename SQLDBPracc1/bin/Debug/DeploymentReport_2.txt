@@ -1,0 +1,21 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a compilar
+       [dbo].[INSCRITO]
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Ninguno
+
+** Acciones del usuario
+     Nueva compilación de tablas
+       [dbo].[INSCRITO] (Tabla)
+
+** Acciones de compatibilidad
+     Quitar
+       [dbo].[FK_INSCRITO_ALUMNO] (Clave externa)
+       [dbo].[FK_INSCRITO_CURSO] (Clave externa)
+     Crear
+       [dbo].[FK_INSCRITO_ALUMNO] (Clave externa)
+       [dbo].[FK_INSCRITO_CURSO] (Clave externa)

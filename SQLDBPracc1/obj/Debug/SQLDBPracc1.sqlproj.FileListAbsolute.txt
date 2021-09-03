@@ -4,3 +4,7 @@ C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDe
 C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\SQLDBPracc1\obj\Debug\SQLDBPracc1.sqlproj.AssemblyReference.cache
 C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\SQLDBPracc1\obj\Debug\SQLDBPracc1.dll
 C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\SQLDBPracc1\obj\Debug\SQLDBPracc1.pdb
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\SQLDBPracc1\obj\Debug\Model.xml
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\SQLDBPracc1\obj\Debug\refactor.xml
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\SQLDBPracc1\obj\Debug\postdeploy.sql
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\SQLDBPracc1\obj\Debug\predeploy.sql
