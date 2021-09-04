@@ -1,0 +1,10 @@
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\FromPrac1\bin\Debug\FromPrac1.exe.config
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\FromPrac1\bin\Debug\FromPrac1.exe
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\FromPrac1\bin\Debug\FromPrac1.pdb
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\FromPrac1\obj\Debug\FromPrac1.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\FromPrac1\obj\Debug\FromPrac1.Form1.resources
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\FromPrac1\obj\Debug\FromPrac1.Properties.Resources.resources
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\FromPrac1\obj\Debug\FromPrac1.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\FromPrac1\obj\Debug\FromPrac1.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\FromPrac1\obj\Debug\FromPrac1.exe
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\FromPrac1\obj\Debug\FromPrac1.pdb
