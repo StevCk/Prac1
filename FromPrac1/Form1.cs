@@ -24,9 +24,17 @@ namespace FromPrac1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            con.Open();
-            MessageBox.Show("Conexion Creada Con Exito!");
-            con.Close();
+            try
+            {
+                con.Open();
+                MessageBox.Show("Conexion Creada Con Exito!");
+                con.Close();
+            }
+            catch
+            {
+                MessageBox.Show("Error al crear la conexcion!");
+                con.Close();
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)
