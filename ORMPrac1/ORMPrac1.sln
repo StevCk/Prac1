@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ORMPrac1", "ORMPrac1.csproj", "{4E3A12B8-567D-4B75-941A-AD98BE8314BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E3A12B8-567D-4B75-941A-AD98BE8314BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E3A12B8-567D-4B75-941A-AD98BE8314BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E3A12B8-567D-4B75-941A-AD98BE8314BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E3A12B8-567D-4B75-941A-AD98BE8314BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D224228-0905-49A1-BE4A-9D2BC0A8B487}
+	EndGlobalSection
+EndGlobal
