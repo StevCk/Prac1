@@ -58,7 +58,7 @@ namespace ORMPrac1
             // comboBox1
             // 
             this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(63, 98);
+            this.comboBox1.Location = new System.Drawing.Point(38, 84);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(121, 21);
             this.comboBox1.TabIndex = 2;
@@ -66,16 +66,16 @@ namespace ORMPrac1
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(63, 125);
+            this.textBox1.Location = new System.Drawing.Point(38, 125);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(301, 20);
+            this.textBox1.Size = new System.Drawing.Size(432, 20);
             this.textBox1.TabIndex = 3;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(459, 252);
+            this.ClientSize = new System.Drawing.Size(516, 276);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.button2);
