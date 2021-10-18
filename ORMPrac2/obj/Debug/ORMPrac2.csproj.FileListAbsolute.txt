@@ -1,0 +1,15 @@
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\ORMPrac2\obj\Debug\ORMPrac2.csproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\ORMPrac2\obj\Debug\ORMPrac2.Form1.resources
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\ORMPrac2\obj\Debug\ORMPrac2.Properties.Resources.resources
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\ORMPrac2\obj\Debug\ORMPrac2.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\ORMPrac2\obj\Debug\ORMPrac2.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\ORMPrac2\bin\Debug\ORMPrac2.exe.config
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\ORMPrac2\bin\Debug\ORMPrac2.exe
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\ORMPrac2\bin\Debug\ORMPrac2.pdb
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\ORMPrac2\bin\Debug\EntityFramework.dll
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\ORMPrac2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\ORMPrac2\bin\Debug\EntityFramework.xml
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\ORMPrac2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\ORMPrac2\obj\Debug\ORMPrac2.csproj.CopyComplete
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\ORMPrac2\obj\Debug\ORMPrac2.exe
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\ORMPrac2\obj\Debug\ORMPrac2.pdb

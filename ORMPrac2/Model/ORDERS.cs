@@ -19,10 +19,10 @@ namespace ORMPrac2.Model
         public decimal ADVANCE_AMOUNT { get; set; }
         public System.DateTime ORD_DATE { get; set; }
         public string ORD_DESCRIPTION { get; set; }
-        public int CUST_CODE { get; set; }
         public int AGENT_CODE { get; set; }
+        public int CUST_CODE { get; set; }
     
-        public virtual CUSTOMER CUSTOMER { get; set; }
         public virtual AGENTS AGENTS { get; set; }
+        public virtual CUSTOMER CUSTOMER { get; set; }
     }
 }

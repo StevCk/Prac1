@@ -7,10 +7,10 @@
       <Diagram DiagramId="00f6fc1c195645da833da73cd7cbfbe0" Name="Diagram1" >
         <EntityTypeShape EntityType="DB2Entity.AGENTS" Width="1.5" PointX="4.375" PointY="1.875" />
         <EntityTypeShape EntityType="DB2Entity.CUSTOMER" Width="1.75" PointX="6.625" PointY="0.875" />
-        <EntityTypeShape EntityType="DB2Entity.ORDERS" Width="1.75" PointX="9.125" PointY="1.75" />
+        <EntityTypeShape EntityType="DB2Entity.ORDERS" Width="1.75" PointX="9.25" PointY="2.125" />
         <AssociationConnector Association="DB2Entity.AGENTSCUSTOMER" />
-        <AssociationConnector Association="DB2Entity.CUSTOMERORDERS" />
         <AssociationConnector Association="DB2Entity.AGENTSORDERS" />
+        <AssociationConnector Association="DB2Entity.CUSTOMERORDERS" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

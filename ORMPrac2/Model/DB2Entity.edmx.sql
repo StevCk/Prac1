@@ -2,7 +2,7 @@
 -- --------------------------------------------------
 -- Entity Designer DDL Script for SQL Server 2005, 2008, 2012 and Azure
 -- --------------------------------------------------
--- Date Created: 10/14/2021 20:09:20
+-- Date Created: 10/17/2021 23:50:22
 -- Generated from EDMX file: C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\ORMPrac2\Model\DB2Entity.edmx
 -- --------------------------------------------------
 
@@ -80,8 +80,8 @@ CREATE TABLE [dbo].[ORDERS] (
     [ADVANCE_AMOUNT] decimal(18,3)  NOT NULL,
     [ORD_DATE] datetime  NOT NULL,
     [ORD_DESCRIPTION] nvarchar(max)  NOT NULL,
-    [CUST_CODE] int  NOT NULL,
-    [AGENT_CODE] int  NOT NULL
+    [AGENT_CODE] int  NOT NULL,
+    [CUST_CODE] int  NOT NULL
 );
 GO
 
@@ -126,21 +126,6 @@ ON [dbo].[CUSTOMER]
     ([AGENTS_CODE]);
 GO
 
--- Creating foreign key on [CUST_CODE] in table 'ORDERS'
-ALTER TABLE [dbo].[ORDERS]
-ADD CONSTRAINT [FK_CUSTOMERORDERS]
-    FOREIGN KEY ([CUST_CODE])
-    REFERENCES [dbo].[CUSTOMER]
-        ([CUST_CODE])
-    ON DELETE NO ACTION ON UPDATE NO ACTION;
-GO
-
--- Creating non-clustered index for FOREIGN KEY 'FK_CUSTOMERORDERS'
-CREATE INDEX [IX_FK_CUSTOMERORDERS]
-ON [dbo].[ORDERS]
-    ([CUST_CODE]);
-GO
-
 -- Creating foreign key on [AGENT_CODE] in table 'ORDERS'
 ALTER TABLE [dbo].[ORDERS]
 ADD CONSTRAINT [FK_AGENTSORDERS]
@@ -154,6 +139,21 @@ GO
 CREATE INDEX [IX_FK_AGENTSORDERS]
 ON [dbo].[ORDERS]
     ([AGENT_CODE]);
+GO
+
+-- Creating foreign key on [CUST_CODE] in table 'ORDERS'
+ALTER TABLE [dbo].[ORDERS]
+ADD CONSTRAINT [FK_CUSTOMERORDERS]
+    FOREIGN KEY ([CUST_CODE])
+    REFERENCES [dbo].[CUSTOMER]
+        ([CUST_CODE])
+    ON DELETE NO ACTION ON UPDATE NO ACTION;
+GO
+
+-- Creating non-clustered index for FOREIGN KEY 'FK_CUSTOMERORDERS'
+CREATE INDEX [IX_FK_CUSTOMERORDERS]
+ON [dbo].[ORDERS]
+    ([CUST_CODE]);
 GO
 
 -- --------------------------------------------------
