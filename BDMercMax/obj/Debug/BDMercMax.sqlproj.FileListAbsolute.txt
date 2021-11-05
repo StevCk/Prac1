@@ -1,0 +1,10 @@
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\BDMercMax\bin\Debug\BDMercMax.dacpac
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\BDMercMax\bin\Debug\BDMercMax.dll
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\BDMercMax\bin\Debug\BDMercMax.pdb
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\BDMercMax\obj\Debug\BDMercMax.sqlproj.AssemblyReference.cache
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\BDMercMax\obj\Debug\Model.xml
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\BDMercMax\obj\Debug\refactor.xml
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\BDMercMax\obj\Debug\postdeploy.sql
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\BDMercMax\obj\Debug\predeploy.sql
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\BDMercMax\obj\Debug\BDMercMax.dll
+C:\Users\steve\OneDrive\Escritorio\Steven\1#BaseDeDatos-II\Codigos-Visual-BaseDeDatos\Prac1\BDMercMax\obj\Debug\BDMercMax.pdb
