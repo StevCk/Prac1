@@ -72,8 +72,19 @@
     <Build Include="VerPuntos.sql" />
     <Build Include="VerProductoBodega.sql" />
     <Build Include="VerProductoGondola.sql" />
+    <Build Include="VerProductoPrecio.sql" />
+    <Build Include="VerClientes.sql" />
+    <Build Include="GetCountFacturas.sql" />
+    <Build Include="ActualizarGondola.sql" />
+    <Build Include="ActualizarPuntos.sql" />
+    <Build Include="CrearCliente.sql" />
+    <Build Include="CrearFactura.sql" />
+    <Build Include="GetIvaPuntos.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="BDMercMax.refactorlog" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BDMercMax_1.publish.xml" />
   </ItemGroup>
 </Project>

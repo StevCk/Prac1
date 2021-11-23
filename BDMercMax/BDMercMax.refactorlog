@@ -70,4 +70,18 @@
     <Property Name="ParentElementType" Value="SqlTable" />
     <Property Name="NewName" Value="id_lugar" />
   </Operation>
+  <Operation Name="Rename Refactor" Key="e475e38d-0dc7-45ee-9a9f-4f145cffb61a" ChangeDateTime="11/19/2021 01:45:23">
+    <Property Name="ElementName" Value="[dbo].[Facturacion].[monto_toral]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Facturacion]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="monto_total" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="dcdb1a05-c594-4864-a5c7-84086e468504" ChangeDateTime="11/19/2021 01:47:17">
+    <Property Name="ElementName" Value="[dbo].[Cliente].[fecha_nacimiento_cliente]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Cliente]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="fecha_nacimiento" />
+  </Operation>
 </Operations>

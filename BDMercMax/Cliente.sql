@@ -5,6 +5,6 @@
     [telefono_cliente] NVARCHAR(MAX) NOT NULL, 
     [email_cliente] NVARCHAR(MAX) NOT NULL, 
     [direccion_cliente] NVARCHAR(MAX) NOT NULL, 
-    [fecha_nacimiento_cliente] DATE NOT NULL, 
+    [fecha_nacimiento] DATE NOT NULL, 
     [puntos_acumulados] INT NOT NULL
 )
