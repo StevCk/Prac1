@@ -80,6 +80,12 @@
     <Build Include="CrearCliente.sql" />
     <Build Include="CrearFactura.sql" />
     <Build Include="GetIvaPuntos.sql" />
+    <Build Include="VerInventario.sql" />
+    <Build Include="CrearVenta.sql" />
+    <Build Include="GetFacturas.sql" />
+    <Build Include="MoverAgondola.sql" />
+    <Build Include="ComprarBodega.sql" />
+    <Build Include="GetInfoCompra.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="BDMercMax.refactorlog" />
